@@ -1,4 +1,4 @@
-# Quest - app
+## Quizz - app
 
 ### This spa was created whit TypeScript, React, Redux Toolkit, RTKQuery, MUI, i18n as RS-Clone project for final part stage2 in RSSchool.
 
